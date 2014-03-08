@@ -1,0 +1,31 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2.4em;
+  margin: 0.2em 0 0.6em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+#strapline {
+  margin: 0;
+}
+
+#stats-metadata {
+  font-size: 0.8em;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 0.4em;
+  text-align: left;
+}
